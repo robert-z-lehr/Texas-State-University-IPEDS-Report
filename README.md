@@ -5,9 +5,11 @@ IPEDS is a system of 12 interrelated survey components conducted annually that g
  
 **Project #1:**
 - What factors contribute most to student retention rates at Texas State University, and how can interventions be tailored to improve retention?
- 
+ 
+
 **Project #2:**
 - How does the availability of financial aid and scholarships correlate with graduation rates among different demographic groups within the Bobcat Community? 
+
 
 ---
 
