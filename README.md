@@ -3,7 +3,7 @@
 **Presentation Topic**
 IPEDS is a system of 12 interrelated survey components conducted annually that gathers data from every college, university, and technical and vocational institution that participates in the federal student financial aid programs. Below are two project goals; please choose one to present:
 
- 
+---
 **Project #1:**
 - What factors contribute most to student retention rates at Texas State University, and how can interventions be tailored to improve retention?
 - **STEPS:**
@@ -14,7 +14,7 @@ IPEDS is a system of 12 interrelated survey components conducted annually that g
  5. Present, responding to your chosen prompt & explaining the process.
  6. *Update to include*: Downloading data, webscraping, API, ethics, an array of different data visualizations, machine learning algorithms, GitHub Pages, Tableau
  
-
+---
 **Project #2:**
 - How does the availability of financial aid and scholarships correlate with graduation rates among different demographic groups within the Bobcat Community?
 - **STEPS:**
