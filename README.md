@@ -1,4 +1,4 @@
-# Texas-State-University-IPEDS-Report
+# [Texas-State-University-IPEDS-Report](https://robert-z-lehr.github.io/Texas-State-University-IPEDS-Report/)
 
 **Presentation Topic**
 IPEDS is a system of 12 interrelated survey components conducted annually that gathers data from every college, university, and technical and vocational institution that participates in the federal student financial aid programs. Below are two project goals; please choose one to present:
