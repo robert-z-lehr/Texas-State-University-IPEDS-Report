@@ -46,3 +46,7 @@ IPEDS is a system of 12 interrelated survey components conducted annually that g
  4. Create a data visualization.
  5. Present, responding to your chosen prompt & explaining the process.
  6. 6. *Update to include*: Downloading data, webscraping, API, ethics, an array of different data visualizations, machine learning algorithms, GitHub Pages, Tableau, DMPTool
+
+---
+
+## Universities of interest:
